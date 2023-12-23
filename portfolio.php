@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="https://kit.fontawesome.com/59ca79f7ba.js" crossorigin="anonymous"></script>
-    <title>Embed PDFs in HTMl</title>
+    <title>Ziroh K. Mae</title>
     <style>
         /* 1. Resetting default styles for all elements */
 * {
@@ -331,12 +331,13 @@
     </style>
 
     <title>Ziroh Katana Mae - Portfolio</title>
+    <link rel="icon" href="https://i.ibb.co/7Ck5Gt6/Ziroh.png" type="image/x-icon">
   </head>
   <body>
     <nav>
       <header>
         <div class="cointainer">
-        <a href="portfolio.php"><img src="https://i.ibb.co/7Ck5Gt6/Ziroh.png" alt="Ziroh" width="50" height="50" ></a>
+        <a href="portfolio.php"><img src="https://i.ibb.co/v3ZwJbn/log.png" alt="log" width="50" height="50" ></a>
         
         </div>
         <h3>Hello world, I’m Eng. Ziroh Katana Mae</h3>
