@@ -1,5 +1,5 @@
 body{
-    background: #fff;
+    background: yellow;
     font-family: 'PT Sans', sans-serif;
   }
   h2{
@@ -46,3 +46,4 @@ body{
     transition: .3s;
   
   }
+  
