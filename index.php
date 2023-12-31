@@ -365,7 +365,9 @@ color: white;
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+  
   </head>
+  
 
   <body>
 
@@ -418,6 +420,11 @@ color: white;
       <article class="about  active" data-page="about">
 
         <header>
+        <div class="cointainer">
+          
+          <a href="portfolio.php"><img src="./assets/images/logo.jpeg" alt="Ziroh" width="80" height="80" ></a>
+         
+         </div>
           <h2 class="h2 article-title">Hella! I'm Eng. Ziroh</h2>
         </header>
 
