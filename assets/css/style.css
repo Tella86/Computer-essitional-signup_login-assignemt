@@ -1892,7 +1892,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 .footer {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  width: 100%;
+  width: 40%;
   background-color: 0;
   text-emphasis-color: white;
 }
