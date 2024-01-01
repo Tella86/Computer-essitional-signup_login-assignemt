@@ -440,7 +440,8 @@ main {
 
 .social-item .social-link {
   color: var(--light-gray-70);
-  font-size: 18px;
+  font-size: 20px;
+ 
 }
 
 
@@ -1911,4 +1912,21 @@ textarea.form-input::-webkit-resizer { display: none; }
   color: white;
   text-align: center;
   margin-left: 200px;
+}
+#back_to_top{
+	position:fixed;
+	right:0px;
+	bottom:80px;
+	padding:6px;
+	background-color:#fff;
+	opacity:0.5;
+	border-radius:6px 0px 0px 6px;
+	cursor:pointer;
+}
+#back_to_top img{
+	width:80px;
+	height:50px;
+}
+#content{
+  height:0px;
 }
