@@ -1368,8 +1368,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     width: calc(100% - 64px);
     color: white;
   }
-
-
+ 
 
   /**
    * #NAVBAR
