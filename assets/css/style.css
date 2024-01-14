@@ -1130,7 +1130,7 @@ main {
   border-radius: 16px;
   margin-bottom: 30px;
   border: 1px solid var(--jet);
-  overflow: hidden;
+  overflow: auto;
 }
 
 .mapbox figure { height: 100%; }
