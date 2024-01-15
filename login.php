@@ -102,8 +102,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         <footer class="page-footer">
             <div class="footer-copyright">
                 <div class="container">
-                    Built by: Eng.Ziroh |The Home Of Developers<br>
-                    © 2023 |All Rights Reserved
+                    Built by: Eng.Ziroh <br>The Home Of Developers<br>
+                    © 2024Copyright |All Rights Reserved
 
                 </div>
 </body>
