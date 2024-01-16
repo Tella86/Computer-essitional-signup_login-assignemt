@@ -44,16 +44,16 @@ $stmt->bind_param(
     $password_hash
 );
 
-#if ($stmt->execute()) {
+if ($stmt->execute()) {
 
 header("Location: signup-success.html");
 exit;
 
-#} else {
+} else {
 
 if ($mysqli->errno === 1062) {
     die("email already taken");
 } else {
     die($mysqli->error . " " . $mysqli->errno);
 }
-#}
+}
