@@ -92,7 +92,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             </li>
             <div class="nav-item">
                 <button>
-                    <a class="butoon" href="forgot-password.php">change_password</a>
+                    <a class="butoon" href="update-password.php">change_password</a>
                 </button>
             </div>
 
