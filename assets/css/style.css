@@ -4,7 +4,7 @@
 
 
 /**
- * copyright 2022 @codewithsadee
+ * copyright 2024 @Eng.ziroh
  */
 
 
@@ -129,7 +129,7 @@ a { text-decoration: none; }
 
 li { list-style: none; }
 
-img, ion-icon, a, button, time, span { display: block; }
+img, ion-icon, a, button, time, span { display: auto; }
 
 button {
   font: inherit;
@@ -424,7 +424,7 @@ main {
 
 .contact-info :is(.contact-link, time, address) {
   color: var(--white-2);
-  font-size: var(--fs-7); 
+  font-size: var(--fs-7);
 }
 
 .contact-info address { font-style: normal; }
@@ -1130,10 +1130,15 @@ main {
   border-radius: 16px;
   margin-bottom: 30px;
   border: 1px solid var(--jet);
-  overflow: auto;
+  overflow: available;
+  
 }
 
-.mapbox figure { height: 100%; }
+.mapbox figure { height: 100%; 
+  display: color;
+background-color: auto;
+}
+
 
 .mapbox iframe {
   width: 100%;
@@ -1368,7 +1373,8 @@ textarea.form-input::-webkit-resizer { display: none; }
     width: calc(100% - 64px);
     color: white;
   }
- 
+
+
 
   /**
    * #NAVBAR
